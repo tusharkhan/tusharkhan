@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Ariful Islam</h1>
+<h1 align="center">Hi 👋, I'm Tusharkhan</h1>
 <h3 align="center">Passionate Backend Developer, PHP Lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkhan&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkhan" /> </p>
