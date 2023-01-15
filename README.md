@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Tusharkhan</h1>
 <h3 align="center">Passionate Backend Developer, PHP Lover</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkhan&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkhan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharkhan&theme=matrix&margin-w=15" alt="tusharkhan" /></a> </p>
 
 
