@@ -17,5 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharkhan&show_icons=true&locale=en" alt="tusharkhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharkhan&" alt="tusharkhan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharkhan" alt="tusharkhan" /></p>
 
