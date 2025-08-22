@@ -44,7 +44,8 @@
 </p>
 
 ## 🚀 Top Projects
-- [**Bangla Faker**](https://github.com/tusharkhan/banglafaker): A Bangla fake data populator for <a href="http://laravel.com/">Laravel</a> 
+- [**Bangla Faker**](https://github.com/tusharkhan/banglafaker): A Bangla fake data populator for <a href="http://laravel.com/">Laravel</a>
+- [**Chat Bot**](https://github.com/tusharkhan/chatbot): A Chat Bot package
 - [**FileDatabase**](https://github.com/Soft-Valley/File-database): *A lightweight and efficient PHP package that leverages JSON files as a database. Ideal for small-scale applications, it provides an easy-to-use API for CRUD operations. No setup required, just plug and play!”*
 
 ## 📫 Contact Me
