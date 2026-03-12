@@ -51,7 +51,7 @@
 ## 📫 Contact Me
 <p align="center">
   <a href="mailto:tushar.khan0122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="www.linkedin.com/in/tushar-khan-18a325b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/tushar-khan-18a325b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.facebook.com/glbaba.tushar"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
 </p>
 
