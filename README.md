@@ -9,7 +9,7 @@
   <a href="https://github.com/tusharkhan/tusharkhan">
     <img src="https://img.shields.io/github/stars/tusharkhan/tusharkhan?label=Stars&style=social" alt="GitHub Stars" />
   </a>
-  <a href="https://www.linkedin.com/in/tusharkhan/">
+  <a href="https://www.linkedin.com/in/tushar-khan-18a325b9">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
 </p>
