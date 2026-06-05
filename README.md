@@ -76,6 +76,16 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
+  <a href="https://github.com/tusharkhan?tab=repositories&type=source&sort=stars">
+    <img src="https://img.shields.io/github/stars/tusharkhan?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="Total Stars" />
+  </a>
+  <a href="https://github.com/tusharkhan?tab=repositories">
+    <img src="https://img.shields.io/badge/Total%20Forks-Explore-0066CC?style=for-the-badge&logo=github" alt="Total Forks" />
+  </a>
+  <img src="https://img.shields.io/badge/Public%20Repos-Open%20Source-brightgreen?style=for-the-badge" alt="Public Repos" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tusharkhan&show_icons=true&theme=tokyonight" alt="Tushar's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkhan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
