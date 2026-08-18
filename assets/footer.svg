@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 150" width="1280" height="150" role="img" aria-label="Thanks for scrolling">
+<defs>
+<linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="1" stop-color="#34D399"/>
+</linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<mask id="m"><rect x="0" y="60" width="1280" height="90" fill="url(#fade)"/></mask>
+</defs>
+<g mask="url(#m)" opacity="0.75">
+<path d="M-320 96 q160 -34 320 0 t320 0 t320 0 t320 0 t320 0 V150 H-320 Z" fill="url(#w1)" opacity="0.5">
+<animateTransform attributeName="transform" type="translate" from="0 0" to="640 0" dur="11s" repeatCount="indefinite"/>
+</path>
+<path d="M-320 108 q160 30 320 0 t320 0 t320 0 t320 0 t320 0 V150 H-320 Z" fill="url(#w1)" opacity="0.35">
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-640 0" dur="14s" repeatCount="indefinite"/>
+</path>
+</g>
+<rect x="440" y="26" width="400" height="2" rx="1" fill="url(#w1)" opacity="0.45"/>
+<text x="640" y="62" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Consolas,monospace" font-size="15" fill="#7D8590" letter-spacing="0.4">
+<tspan fill="#22D3EE">$</tspan> git commit -m <tspan fill="#34D399">"thanks for scrolling"</tspan>
+</text>
+<text x="640" y="88" text-anchor="middle" font-family="'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" opacity="0.75" letter-spacing="0.3">Simplicity is the soul of efficiency.</text>
+</svg>
